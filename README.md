@@ -1,4 +1,4 @@
-# CRUISE-SHIPS
+# Cruise-Ship-Management
 
 Have fun sailing your ship trough different ports, built with Object Oriented Programming.
 
