@@ -1,8 +1,8 @@
 # Cruise-Ship-Management
 
-Have fun sailing your ship trough different ports, built with Object Oriented Programming.
+Cruise Ship Management: Comprehensive, integrated platform streamlining operations, passenger services, itinerary planning, and resource allocation for efficient, profitable, and customer-centric voyage management. built with Object Oriented Programming.
 
-<img width="1242" alt="Screenshot 2020-12-28 at 10 24 28" src="https://user-images.githubusercontent.com/64982185/103207757-069ce680-48f7-11eb-96a8-add02ed85a0e.png">
+![image](https://github.com/user-attachments/assets/323362fc-0fd2-4fdc-bc12-d360eb5b0632)
 
 # FEATURES
 
